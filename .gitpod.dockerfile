@@ -20,6 +20,8 @@ ENV C9_USER="gitpod"
 ENV PORT="8080"
 ENV IP="0.0.0.0"
 ENV C9_HOSTNAME="localhost"
+ENV EMAIL_ADDRESS="alex@bode-web.eu"
+ENV EMAIL_PASSWORD="brennholz"
 
 USER root
 # Switch back to root to allow IDE to load
